@@ -4,6 +4,6 @@ Being an enthusiast about technology, I pursued an **undergraduate degree in Ele
 
 I was a planning engineer for more than a year and for that duration, I was able to exercise my **skills in communicating and dealing directly with clients, salespersons, and contractors** while using engineering management.
 
-From that day forward, I have been formally training and refreshing my **HTML, CSS, and JavaScript competency**. I am looking to use this passion to a full-time role.
+From that day forward, I have been formally training my **HTML, CSS, and JavaScript competency plus knowledge in ReactJS and Bootstrap**. I am looking to use this passion to a full-time role.
 
 Checkout my **[LinkedIn Profile](https://www.linkedin.com/in/code-mma/)** now!
